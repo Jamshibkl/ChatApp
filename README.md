@@ -1,5 +1,4 @@
 # ChatApp
-Chat Application using PHP with MySQL &amp; JavaScript.
 🚀 Welcome to the ChatApp Repository! 📱
 
 ChatApp is a dynamic and user-friendly chat application built with PHP, MySQL, and JavaScript. Whether you're connecting with friends or making new ones, ChatApp provides a seamless and interactive platform for real-time conversations.

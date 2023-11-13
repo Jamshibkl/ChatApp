@@ -19,4 +19,4 @@ Follow our straightforward setup instructions and unleash the power of ChatApp i
 
 👏 Join the chat revolution with ChatApp today! 💬
 
-visit :- https://chathereapp.000webhostapp.com/
+Live demo here:- https://chathereapp.000webhostapp.com/

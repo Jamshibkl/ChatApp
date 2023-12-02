@@ -3,7 +3,7 @@
 
 ChatApp is a dynamic and user-friendly chat application built with PHP, MySQL, and JavaScript. Whether you're connecting with friends or making new ones, ChatApp provides a seamless and interactive platform for real-time conversations.
 
-✨ Features:
+✨ Features :
 
 User Signup: Start by creating your unique profile and join our vibrant community.
 User Area: Explore a user-friendly environment, displaying user profiles with full names, profile images, and active statuses.

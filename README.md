@@ -20,3 +20,5 @@ Follow our straightforward setup instructions and unleash the power of ChatApp i
 👏 Join the chat revolution with ChatApp today! 💬
 
 Live demo here:- [Live Demo](https://chathereapp.000webhostapp.com)
+
+Happy coding 😊✨
